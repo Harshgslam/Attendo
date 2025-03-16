@@ -1,5 +1,5 @@
 # 👥 Attendo
-#### Attendo is an attendance system works on the principle of face - recognition built under Microsoft Engage Mentorship Program 2022.
+#### Attendo is an attendance system works on the principle of face - recognition.
 
 
 # Approach Towards Building the Project
@@ -70,13 +70,6 @@ $ git clone https://github.com/<Your-Github-Name >/Engage-Project.git
 ```
 
 
-### Downloading The Repository Zip File
-Another way to use the Engage - Project boilerplate is to download a zip copy from the [main branch on GitHub](https://github.com/Devansh-gaur-1611/Engage-Project) and click on the Code button and then click on Download ZIP
-
-
-
-# Get Started
-Once you've downloaded the boilerplate and installed all the prerequisites, you're just a few steps away from starting to run my Engage - project
 
 
 
