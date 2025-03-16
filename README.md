@@ -56,11 +56,9 @@ Make sure you have installed all of the following prerequisites on your developm
 * Python - [Download & Install Python](https://www.python.org/downloads/), and the pip package manager. 
 
 
-## Downloading the Engage - Project
-There are several ways you can get the Engage - Project boilerplate:
 
 ### Cloning The GitHub Repository
-The recommended way to get the Engage - Project is to use git to directly clone the Engae - Project repository:
+The recommended way to get the project is to use git to directly clone the project repository:
 
 1. Fork the repository to your own account.
 2. Run the following command in the terminal to clone the repository
