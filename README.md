@@ -199,7 +199,7 @@ $ git clone https://github.com/<Your-Github-Name >/Engage-Project.git
     $ go run .
     ```
 
-## Future Enhancements planned for my Engage Project
+## Future Enhancements planned for my project
 
 ### - Take constant feedbacks and suggestions from friends and family
 
